@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.flarelabsmc.interactionary.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "${mod_id}.refmap.json",
+  "mixins": [],
+  "client": [
+    "FishingHookRendererMixin",
+    "ItemInHandRendererMixin"
+  ],
+  "minVersion": "0.8.5"
+}

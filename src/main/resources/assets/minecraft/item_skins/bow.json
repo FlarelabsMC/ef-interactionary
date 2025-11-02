@@ -1,0 +1,12 @@
+{
+  "renderer": "interactionary:one_handed_ranged_weapon",
+  "transforms": {
+    "offhand": {
+      "Tool_R": {
+        "translation": [0.07, 0.0, -0.15],
+        "rotation": [-90.0, -8, 0.0],
+        "scale": [1, 1, 1]
+      }
+    }
+  }
+}
